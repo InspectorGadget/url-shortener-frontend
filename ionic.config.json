@@ -1,0 +1,7 @@
+{
+  "name": "shortify-frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "shortify-frontend",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
